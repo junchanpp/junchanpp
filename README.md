@@ -36,6 +36,9 @@
   </p>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junchanpp&show_icons=true&locale=en&layout=compact" alt="junchanpp" /></p>
+
+  <p>
+    <a href="https://solved.ac/9pruruluru2/" target="_blank" rel="noreferrer"> <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=9pruruluru2" /> </a> 
+  </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junchanpp&show_icons=true&locale=en" alt="junchanpp" /></p>
